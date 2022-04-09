@@ -1,4 +1,4 @@
-const SECRET_KEY = 'secret';
+const SECRET_KEY = '';
 
 
 // api call
